@@ -1,0 +1,14 @@
+$clr-primary: limegreen;
+$clr-accent: hotpink;
+
+.section-title {
+  font-size: 3rem;
+  font-weight: 700; 
+  color: $clr-primary;
+  margin: 0 0 1.5rem;
+
+  span {
+    color: $clr-accent;
+    font-weight: 300;
+  }
+}

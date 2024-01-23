@@ -1,0 +1,12 @@
+.section-title {
+  font-size: 3rem;
+  font-weight: 700;
+  color: limegreen;
+  margin: 0 0 1.5rem;
+}
+.section-title span {
+  color: hotpink;
+  font-weight: 300;
+}
+
+/*# sourceMappingURL=style.css.map */
